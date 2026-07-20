@@ -1,0 +1,34 @@
+# Elesh Vaishnav
+
+Official portfolio of Elesh Vaishnav.
+
+Student developer from Jodhpur, Rajasthan, India.
+
+Interests:
+- Artificial Intelligence
+- Machine Learning
+- Mathematics
+- Web Development
+- Computer Vision
+- Research
+
+## Main Pages
+
+- Home: https://eleshvaishnav.github.io/Elesh.Vaishnav/
+- About: https://eleshvaishnav.github.io/Elesh.Vaishnav/#about
+- Projects: https://eleshvaishnav.github.io/Elesh.Vaishnav/#projects
+- Contact: https://eleshvaishnav.github.io/Elesh.Vaishnav/#contact
+
+## Featured Projects
+
+- PARMANA
+- AI Experiments
+- Portfolio Website
+
+## Profiles
+
+GitHub:
+https://github.com/EleshVaishnav
+
+LinkedIn:
+https://linkedin.com/in/...
