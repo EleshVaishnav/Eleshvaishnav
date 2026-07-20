@@ -1,0 +1,11 @@
+/* TEAM */
+
+Name: Elesh Vaishnav
+Role: Developer & Designer
+Website: https://eleshvaishnav.github.io/Eleshvaishnav/
+GitHub: https://github.com/EleshVaishnav
+
+/* SITE */
+
+Standards: HTML5, CSS3, JavaScript
+Hosting: GitHub Pages
