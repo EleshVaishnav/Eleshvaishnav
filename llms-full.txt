@@ -1,0 +1,78 @@
+# Elesh Vaishnav
+
+Official Portfolio
+
+Website:
+https://eleshvaishnav.github.io/Eleshvaishnav/
+
+GitHub:
+https://github.com/EleshVaishnav
+
+## About
+
+Elesh Vaishnav is a student developer from Jodhpur, Rajasthan, India.
+
+His interests include:
+- Artificial Intelligence
+- Machine Learning
+- Mathematics
+- Web Development
+- Computer Vision
+- Automation
+- Software Engineering
+
+## Skills
+
+Programming:
+- JavaScript
+- HTML
+- CSS
+- Python
+
+Technologies:
+- Git
+- GitHub
+- GitHub Pages
+- OpenCV
+- TensorFlow
+- PyTorch
+
+## Projects
+
+This portfolio showcases software projects, AI experiments, and web development work created by Elesh Vaishnav.
+
+Topics include:
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Interactive Web Applications
+- Research
+- Automation
+
+## Contact
+
+Portfolio:
+https://eleshvaishnav.github.io/Eleshvaishnav/
+
+GitHub:
+https://github.com/EleshVaishnav
+
+## Keywords
+
+Elesh Vaishnav
+Elesh
+AI Developer
+Student Developer
+Machine Learning
+Artificial Intelligence
+Portfolio
+Web Developer
+Computer Vision
+Python
+JavaScript
+GitHub
+GitHub Pages
+Jodhpur
+India
+Research
+Software Engineering
